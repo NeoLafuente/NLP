@@ -10,3 +10,6 @@ wheels/
 .venv
 
 notebooks/.ipynb_checkpoints/
+.python-version
+pyproject.toml
+uv.lock

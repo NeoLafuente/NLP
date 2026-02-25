@@ -13,3 +13,4 @@ notebooks/.ipynb_checkpoints/
 .python-version
 pyproject.toml
 uv.lock
+notebooks/mlruns/
